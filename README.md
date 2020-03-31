@@ -1,7 +1,7 @@
 # WorkshopDev da Semana OmniStack 11.0
 
 ## Projeto desenvolvido: Casa Criativa - Ideias para a crise
-
+![Página inicial](imagens/readme/página-inicial.png "Página inicial")
 Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto principal da Semana OmniStack, ele aborda os fundamentos do desenvolvimento web como HTML, CSS, Javascript e SQL.
 
 ## Anotações das aulas
@@ -66,7 +66,12 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
 - [x] Apresentar o formulário de cadastro de ideias
     ![Formulário de cadastro de ideias](imagens/readme/formulário-cadastro.png "Formulário de cadastro de ideias")
 
+### Dia 3
 
+#### Propostas do Dia 3:
+* Revisar os conteúdos já abordados.
+- [x] Criar a página de exibição de todas idéias cadastradas.
+    ![Página de ideias](imagens/readme/página-ideias.png "Página de ideias")
 
 
 
