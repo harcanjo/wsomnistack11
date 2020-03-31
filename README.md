@@ -4,7 +4,7 @@
 
 Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto principal da Semana OmniStack, ele aborda os fundamentos do desenvolvimento web como HTML, CSS, Javascript e SQL.
 
-### Anotações das aulas
+## Anotações das aulas
 
 ### Dia 1
 
@@ -56,6 +56,13 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
     * CSS - Estilo.
     * Javascript - Inteligência.
 
+### Dia 2
+
+#### Propostas do Dia 2:
+- [x] Refatorar o código:
+    * Separar os códigos de CSS e Javascript do HTML.
+- [x] Aperfeiçoar a página inicial.
+- [x] Apresentar o formulário de cadastro de idéias
 
 
 
