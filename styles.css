@@ -1,0 +1,72 @@
+/*
+    CSS - Cascading Stylesheet
+    Folha de estilo em cascata
+*/
+
+body { /* Seletor CSS */
+    background-color: #e5e5e5;
+    color: #25282b;
+
+    text-align: center;
+}
+
+button {
+    color: #ff5e84;
+
+    border: none;
+
+    font-weight: bold;
+
+    background: none;
+}
+
+.fat {
+    color: #fff;
+
+    background-color: #ff5e84;
+}
+
+#footer a {
+    color: #25282b;
+
+    text-decoration: none;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
