@@ -6,9 +6,9 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
 
 ### Anotações das aulas
 
-#### Dia 1
+### Dia 1
 
-##### Introdução à programação web:
+#### Introdução à programação web:
 * O que é programação?
     * Ensinar o computador.
         * Algoritmos.
@@ -21,14 +21,14 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
 * Qual linguagem de programação?
     * Javascript.
 
-##### Ambiente de desenvolvimento:
-- [*] Instalar o VSCode.
-- [*] Instalar o Node.js.
+#### Ambiente de desenvolvimento:
+- [x] Instalar o VSCode.
+- [x] Instalar o Node.js.
     * Baseado no Chrome V8 Javascript engine.
-    - [*] Instalar o Liver Server plugin.
-- [*] Instalar o Google Chrome.
+    - [x] Instalar o Liver Server plugin.
+- [x] Instalar o Google Chrome.
 
-##### Front-end e Back-end:
+#### Front-end e Back-end:
 * Imagine que...você está em uma farmácia e pede ao farmaceutico um remédio e ele vai lá atrás e busca no estoque o medicamento. No caso o cliente é o Front-end (cliente) e o farmaceutico o Back-end (servidor).
     * Quem chama é o cliente, quem escuta e responde é o servidor.
 
@@ -43,15 +43,15 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
         * CSS.
         * Javascript.
 
-##### Propostas do Dia 1:
-- [*] Apresentação do projeto.
+#### Propostas do Dia 1:
+- [x] Apresentação do projeto.
     * Casa Criativa - Ideias para a crise.
         * Cadastro de ideias, brincadeiras, cursos, dicas...
         * Telas do projeto:
             * Tela inicial com a descrição do projeto e últimas ideias cadastradas.
             * Tela de cadastro.
             * Tela de exibição de todas ideias.
-- [*] Introdução ao HTML + CSS + JS.
+- [x] Introdução ao HTML + CSS + JS.
     * HTML - Estrututa.
     * CSS - Estilo.
     * Javascript - Inteligência.
