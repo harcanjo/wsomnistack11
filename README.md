@@ -62,7 +62,9 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
 - [x] Refatorar o código:
     * Separar os códigos de CSS e Javascript do HTML.
 - [x] Aperfeiçoar a página inicial.
-- [x] Apresentar o formulário de cadastro de idéias
+    ![Página inicial](imagens/readme/página-inicial.png "Página inicial")
+- [x] Apresentar o formulário de cadastro de ideias
+    ![Formulário de cadastro de ideias](imagens/readme/formulário-cadastro.png "Formulário de cadastro de ideias")
 
 
 
