@@ -90,10 +90,32 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
 
 #### Propostas do Dia 4:
 * Revisar os conteúdos já abordados.
-- [x] Criar a página de exibição de todas idéias cadastradas.
+* Configurar o servidor com express e nunjucks.
+* Refatorar os arquivos index.html e ideas.html.
 
+### Dia 5
 
+#### Back-end:
+* Banco de dados:
+    * Dados não podem ficar na aplicação.
+    * Perder / Corromper.
+    * Segurança.
+    * Responsabilidades.
+* SQL:
+    * Structured Query Language.
+    * Linguagem para consultar, criar, atualizar, listar, deletar e muito mais...
+    * Tabelas / Entidades / Relações - Colunas e linhas.
+* Tecnologia utilizada:
+    * SQLite.
+    * SQLite é open-source, não precisa de um mundo de configurações, é estruturado para ser um banco de dados relacional que reside na própria aplicação.
+    * PERFEITO para quem está começando no mundo SQL.
 
+#### Propostas do Dia 5:
+* Criar e configurar o banco de dados.
+
+#### Propostar de implementações extras:
+* Implementar deletar idéia.
+* Validação de dados no Back-end.
 
 
 
