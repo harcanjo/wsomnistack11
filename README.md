@@ -1,7 +1,7 @@
 # WorkshopDev da Semana OmniStack 11.0
 
 ## Projeto desenvolvido: Casa Criativa - Ideias para a crise
-![Página inicial](imagens/readme/página-inicial.png "Página inicial")
+![Página inicial](public/imagens/readme/página-inicial.png "Página inicial")
 Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto principal da Semana OmniStack, ele aborda os fundamentos do desenvolvimento web como HTML, CSS, Javascript e SQL.
 
 ## Anotações das aulas
@@ -62,18 +62,35 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
 - [x] Refatorar o código:
     * Separar os códigos de CSS e Javascript do HTML.
 - [x] Aperfeiçoar a página inicial.
-    ![Página inicial](imagens/readme/página-inicial.png "Página inicial")
+    ![Página inicial](public/imagens/readme/página-inicial.png "Página inicial")
 - [x] Apresentar o formulário de cadastro de ideias
-    ![Formulário de cadastro de ideias](imagens/readme/formulário-cadastro.png "Formulário de cadastro de ideias")
+    ![Formulário de cadastro de ideias](public/imagens/readme/formulário-cadastro.png "Formulário de cadastro de ideias")
 
 ### Dia 3
 
 #### Propostas do Dia 3:
 * Revisar os conteúdos já abordados.
 - [x] Criar a página de exibição de todas idéias cadastradas.
-    ![Página de ideias](imagens/readme/página-ideias.png "Página de ideias")
+    ![Página de ideias](public/imagens/readme/página-ideias.png "Página de ideias")
 
+### Dia 4
 
+#### Back-end:
+* Responsabilidades:
+    * Receber pedidos do cliente.
+        * Pesquisar uma página no buscador, o servidor entrega ao cliente.
+    * Devolver resposta.
+    * Regras de negócio.
+        * Validação de CPF, se é válido, se não está cadastrado ainda...
+    * Dados.
+        * Tratamento de dados, limpar os dados e ter persistencia.
+* Tecnologias utilizadas:
+    * Node.js
+    * Banco de dados.
+
+#### Propostas do Dia 4:
+* Revisar os conteúdos já abordados.
+- [x] Criar a página de exibição de todas idéias cadastradas.
 
 
 
