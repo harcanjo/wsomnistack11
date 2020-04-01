@@ -114,8 +114,8 @@ Workshop para quem está iniciando no desenvolvimento web, paralelo ao projeto p
 * Criar e configurar o banco de dados.
 
 #### Propostar de implementações extras:
-* Implementar deletar idéia.
-* Validação de dados no Back-end.
+- [ ] Implementar deletar idéia.
+- [ ] Validação de dados no Back-end.
 
 
 
